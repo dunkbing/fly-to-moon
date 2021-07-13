@@ -44,9 +44,15 @@ TagManager:
   - name: Background
     uniqueID: 4041875851
     locked: 0
+  - name: Midground
+    uniqueID: 1966399267
+    locked: 0
   - name: Player
     uniqueID: 1271916981
     locked: 0
   - name: Particle
     uniqueID: 4007316555
+    locked: 0
+  - name: Forground
+    uniqueID: 3166674653
     locked: 0
